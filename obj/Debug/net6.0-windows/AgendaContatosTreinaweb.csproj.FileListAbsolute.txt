@@ -1,0 +1,17 @@
+C:\Users\bryan.melo\source\repos\MeuPrimeiroProjeto\AgendaContatosTreinaweb\obj\Debug\net6.0-windows\AgendaContatosTreinaweb.csproj.AssemblyReference.cache
+C:\Users\bryan.melo\source\repos\MeuPrimeiroProjeto\AgendaContatosTreinaweb\obj\Debug\net6.0-windows\AgendaContatosTreinaweb.frmAgendaContatos.resources
+C:\Users\bryan.melo\source\repos\MeuPrimeiroProjeto\AgendaContatosTreinaweb\obj\Debug\net6.0-windows\AgendaContatosTreinaweb.csproj.GenerateResource.cache
+C:\Users\bryan.melo\source\repos\MeuPrimeiroProjeto\AgendaContatosTreinaweb\obj\Debug\net6.0-windows\AgendaContatosTreinaweb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bryan.melo\source\repos\MeuPrimeiroProjeto\AgendaContatosTreinaweb\obj\Debug\net6.0-windows\AgendaContatosTreinaweb.AssemblyInfoInputs.cache
+C:\Users\bryan.melo\source\repos\MeuPrimeiroProjeto\AgendaContatosTreinaweb\obj\Debug\net6.0-windows\AgendaContatosTreinaweb.AssemblyInfo.cs
+C:\Users\bryan.melo\source\repos\MeuPrimeiroProjeto\AgendaContatosTreinaweb\obj\Debug\net6.0-windows\AgendaContatosTreinaweb.csproj.CoreCompileInputs.cache
+C:\Users\bryan.melo\source\repos\MeuPrimeiroProjeto\AgendaContatosTreinaweb\bin\Debug\net6.0-windows\AgendaContatosTreinaweb.exe
+C:\Users\bryan.melo\source\repos\MeuPrimeiroProjeto\AgendaContatosTreinaweb\bin\Debug\net6.0-windows\AgendaContatosTreinaweb.deps.json
+C:\Users\bryan.melo\source\repos\MeuPrimeiroProjeto\AgendaContatosTreinaweb\bin\Debug\net6.0-windows\AgendaContatosTreinaweb.runtimeconfig.json
+C:\Users\bryan.melo\source\repos\MeuPrimeiroProjeto\AgendaContatosTreinaweb\bin\Debug\net6.0-windows\AgendaContatosTreinaweb.dll
+C:\Users\bryan.melo\source\repos\MeuPrimeiroProjeto\AgendaContatosTreinaweb\bin\Debug\net6.0-windows\AgendaContatosTreinaweb.pdb
+C:\Users\bryan.melo\source\repos\MeuPrimeiroProjeto\AgendaContatosTreinaweb\obj\Debug\net6.0-windows\AgendaContatosTreinaweb.dll
+C:\Users\bryan.melo\source\repos\MeuPrimeiroProjeto\AgendaContatosTreinaweb\obj\Debug\net6.0-windows\refint\AgendaContatosTreinaweb.dll
+C:\Users\bryan.melo\source\repos\MeuPrimeiroProjeto\AgendaContatosTreinaweb\obj\Debug\net6.0-windows\AgendaContatosTreinaweb.pdb
+C:\Users\bryan.melo\source\repos\MeuPrimeiroProjeto\AgendaContatosTreinaweb\obj\Debug\net6.0-windows\AgendaContatosTreinaweb.genruntimeconfig.cache
+C:\Users\bryan.melo\source\repos\MeuPrimeiroProjeto\AgendaContatosTreinaweb\obj\Debug\net6.0-windows\ref\AgendaContatosTreinaweb.dll
