@@ -11,6 +11,8 @@ namespace AgendaContatosTreinaweb
         {
             alterarBotoesSalvarECancelar(false);
             alterarBotaoAdicionarAlterarExcluir(true);
+
+            lbxContatos.Items.AddRange(ManipuladorArquivo.LerArquivo().ToArray());
         }
 
         private void alterarBotoesSalvarECancelar(bool estado) 
@@ -31,6 +33,31 @@ namespace AgendaContatosTreinaweb
         {
             alterarBotoesSalvarECancelar(true);
             alterarBotaoAdicionarAlterarExcluir(false);
+
+            Contato contato = new Contato
+            {
+                Nome = txbNome.Text,
+                Email = txbEmail.Text,
+                NumeroTelefone = txbTelefone.Text,
+            };
+
+            List<Contato> contatosList = new List<Contato>();
+
+            foreach (Contato contatoDaLista in lbxContatos.Items)
+            {
+                contatosList.Add(contatoDaLista);
+            };
+
+            contatosList.Add(contato);
+
+            ManipuladorArquivo.EscreverArquivo(contatosList);
+
+        }
+
+        private void carregarListaDeContatos()
+        {
+            lbxContatos.Items.Clear();
+            lbxContatos.Items.AddRange(ManipuladorArquivo.LerArquivo().ToArray());
         }
 
         private void btnAlterar_Click(object sender, EventArgs e)

@@ -30,11 +30,11 @@
         {
             this.lbxContatos = new System.Windows.Forms.ListBox();
             this.label1 = new System.Windows.Forms.Label();
-            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.txbNome = new System.Windows.Forms.TextBox();
             this.label2 = new System.Windows.Forms.Label();
-            this.textBox2 = new System.Windows.Forms.TextBox();
+            this.txbEmail = new System.Windows.Forms.TextBox();
             this.label3 = new System.Windows.Forms.Label();
-            this.textBox3 = new System.Windows.Forms.TextBox();
+            this.txbTelefone = new System.Windows.Forms.TextBox();
             this.btnAdicionar = new System.Windows.Forms.Button();
             this.btnSalvar = new System.Windows.Forms.Button();
             this.btnAlterar = new System.Windows.Forms.Button();
@@ -60,12 +60,12 @@
             this.label1.TabIndex = 1;
             this.label1.Text = "Nome:";
             // 
-            // textBox1
+            // txbNome
             // 
-            this.textBox1.Location = new System.Drawing.Point(356, 12);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(309, 23);
-            this.textBox1.TabIndex = 2;
+            this.txbNome.Location = new System.Drawing.Point(356, 12);
+            this.txbNome.Name = "txbNome";
+            this.txbNome.Size = new System.Drawing.Size(309, 23);
+            this.txbNome.TabIndex = 2;
             // 
             // label2
             // 
@@ -76,12 +76,12 @@
             this.label2.TabIndex = 3;
             this.label2.Text = "Email:";
             // 
-            // textBox2
+            // txbEmail
             // 
-            this.textBox2.Location = new System.Drawing.Point(356, 41);
-            this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(309, 23);
-            this.textBox2.TabIndex = 4;
+            this.txbEmail.Location = new System.Drawing.Point(356, 41);
+            this.txbEmail.Name = "txbEmail";
+            this.txbEmail.Size = new System.Drawing.Size(309, 23);
+            this.txbEmail.TabIndex = 4;
             // 
             // label3
             // 
@@ -92,12 +92,12 @@
             this.label3.TabIndex = 5;
             this.label3.Text = "Telefone:";
             // 
-            // textBox3
+            // txbTelefone
             // 
-            this.textBox3.Location = new System.Drawing.Point(356, 70);
-            this.textBox3.Name = "textBox3";
-            this.textBox3.Size = new System.Drawing.Size(309, 23);
-            this.textBox3.TabIndex = 6;
+            this.txbTelefone.Location = new System.Drawing.Point(356, 70);
+            this.txbTelefone.Name = "txbTelefone";
+            this.txbTelefone.Size = new System.Drawing.Size(309, 23);
+            this.txbTelefone.TabIndex = 6;
             // 
             // btnAdicionar
             // 
@@ -158,11 +158,11 @@
             this.Controls.Add(this.btnAlterar);
             this.Controls.Add(this.btnSalvar);
             this.Controls.Add(this.btnAdicionar);
-            this.Controls.Add(this.textBox3);
+            this.Controls.Add(this.txbTelefone);
             this.Controls.Add(this.label3);
-            this.Controls.Add(this.textBox2);
+            this.Controls.Add(this.txbEmail);
             this.Controls.Add(this.label2);
-            this.Controls.Add(this.textBox1);
+            this.Controls.Add(this.txbNome);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.lbxContatos);
             this.Name = "frmAgendaContatos";
@@ -177,11 +177,11 @@
 
         private ListBox lbxContatos;
         private Label label1;
-        private TextBox textBox1;
+        private TextBox txbNome;
         private Label label2;
-        private TextBox textBox2;
+        private TextBox txbEmail;
         private Label label3;
-        private TextBox textBox3;
+        private TextBox txbTelefone;
         private Button btnAdicionar;
         private Button btnSalvar;
         private Button btnAlterar;
